@@ -313,7 +313,7 @@ Exploring your databases with the MongoDB shell can be a chore. Robomongo is a f
 
 ## Challenges
 
-Fork and clone this <a href="https://github.com/sf-wdi-30/mongoose-books-app">Book App</a> tutorial and get started on your first CRUD application!
+Fork and clone this <a href="https://github.com/sf-wdi-30/mongoose-books-app">Book App</a> tutorial and get started on your first CRUD application!  For today, only attempt Sprint 1.  Sprint 2 will be covered at a later date.
 
 ## Resources
 
